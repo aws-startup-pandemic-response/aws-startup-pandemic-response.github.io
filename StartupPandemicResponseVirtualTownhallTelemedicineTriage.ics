@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200403T160417Z
+DESCRIPTION:*** Feel free to forward to healthcare providers and your teams
+	***\n\n \n\nJoin us for the first set of virtual presentations on telemedi
+	cine and triage on April 7 at 11 am EST. Some of the prominent startups wi
+	ll share the details and results of their COVID-19 solutions being impleme
+	nted with healthcare systems around the world. \n\n \n\nTo request introdu
+	ction to any of the featured startups\, please reach out via this solution
+	 catalog page <https://aws-startup-pandemic-response.github.io/> . \n\n \n
+	\nFollow the Townhall link below and feel free to forward it to your peers
+	 and teams. \n\n \n\nThank you\, \n\nAWS healthcare startup team\n\n \n\n\
+	n\n \n\n---------- Amazon Chime Meeting Information ----------\n\n \n\nYou
+	 have been invited to an online meeting\, powered by Amazon Chime.\n\n \n\
+	n1. Click to join the meeting:\n\n \n\nhttps://chime.aws/4445081663\n\n \n
+	\nMeeting ID: 4445 08 1663\n\n \n\n2. You can use your computer’s microp
+	hone and speakers\; however\, a headset is recommended. Or\, call in using
+	 your phone:\n\n \n\nUnited States Toll-Free: +1 855-552-4463\n\nMeeting I
+	D: 4445 08 1663\n\n \n\nOne-click Mobile Dial-in (United States Toll-Free)
+	: +1 855-552-4463\,\,\,4445081663#\n\n \n\nUnited States (1): +1 206-462-5
+	569\n\nInternational: https://chime.aws/dialinnumbers/\n\n \n\nDial-in att
+	endees must enter *7 to mute or unmute themselves.\n\n \n\n3. To connect f
+	rom an in-room video system\, use one of the following Amazon Chime bridge
+	s:\n\n \n\nSIP video system: 4445081663@meet.chime.in <mailto:4445081663@m
+	eet.chime.in>  or meet.chime.in\n\nor\n\nH.323 system: 13.248.147.139 or 7
+	6.223.18.152\n\n \n\nIf prompted enter the Meeting ID: 4445081663#\n\n \n\
+	n \n\n---------- End of Amazon Chime Meeting Information ---------\n\n
+DTEND;TZID="Pacific Standard Time":20200407T090000
+DTSTAMP:20200403T160151Z
+DTSTART;TZID="Pacific Standard Time":20200407T080000
+LAST-MODIFIED:20200403T160417Z
+LOCATION:https://chime.aws/4445081663
+ORGANIZER;CN="Joffe, Jelena":mailto:jjelena@amazon.com
+PRIORITY:5
+SEQUENCE:5
+SUMMARY;LANGUAGE=en-us:Startup Pandemic Response: Virtual Townhall "Telemed
+	icine & Triage"
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000503B659B7107D601000000000000000
+	0100000003B70B0ECEB0DB54FAA2E200E894D9EAA
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v
+	\\:* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\
+	nw\\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\
+	;}\n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	
+	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-fac
+	e\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style De
+	finitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n
+		margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,san
+	s-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:
+	#0563C1\;\n	text-decoration:underline\;}\na:visited\, span.MsoHyperlinkFol
+	lowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	text-decoration:under
+	line\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{mso-style-name:m
+	sonormal\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\;\n	mso-margin-b
+	ottom-alt:auto\;\n	margin-left:0in\;\n	font-size:12.0pt\;\n	font-family:"T
+	imes New Roman"\,serif\;}\nspan.EmailStyle18\n	{mso-style-type:personal-co
+	mpose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoC
+	hpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page Wor
+	dSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.
+	WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\
+	n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[i
+	f gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" da
+	ta="1" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" lin
+	k="#0563C1" vlink="#954F72"><div class="WordSection1"><p class="MsoNormal"
+	><span style="color:#1F4E79">*** Feel free to forward to healthcare provid
+	ers and your teams***<o:p></o:p></span></p><p class="MsoNormal"><span styl
+	e="color:#1F4E79"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><span 
+	style="color:#1F4E79">Join us for the first set of virtual presentations o
+	n telemedicine and triage on April 7 at 11 am EST. Some of the prominent s
+	tartups will share the details and results of their COVID-19 solutions bei
+	ng implemented with healthcare systems around the world. <o:p></o:p></span
+	></p><p class="MsoNormal"><span style="color:#1F4E79"><o:p>&nbsp\;</o:p></
+	span></p><p class="MsoNormal"><span style="color:#1F4E79">To request intro
+	duction to any of the featured startups\, please reach out via </span><spa
+	n style="color:#ED7D31"><a href="https://aws-startup-pandemic-response.git
+	hub.io/"><span style="color:#ED7D31">this solution catalog page</span></a>
+	</span><span style="color:#1F4E79">. <o:p></o:p></span></p><p class="MsoNo
+	rmal"><span style="color:#1F4E79"><o:p>&nbsp\;</o:p></span></p><p class="M
+	soNormal"><span style="color:#1F4E79">Follow the Townhall link below and f
+	eel free to forward it to your peers and teams. <o:p></o:p></span></p><p c
+	lass="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Thank you\, <o
+	:p></o:p></p><p class="MsoNormal">AWS healthcare startup team<o:p></o:p></
+	p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><img bor
+	der="0" width="176" height="50" style="width:1.8333in\;height:.5208in" id=
+	"Picture_x0020_1" src="cid:image002.png@01D60996.83C6DA40" alt="https://aw
+	s-startup-pandemic-response.github.io/aws.hcls.logo.png"><o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">---------- A
+	mazon Chime Meeting Information ----------<o:p></o:p></p><p class="MsoNorm
+	al"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">You have been invited to an
+	 online meeting\, powered by Amazon Chime.<o:p></o:p></p><p class="MsoNorm
+	al"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">1. Click to join the meetin
+	g:<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoN
+	ormal"><b><span style="background:yellow\;mso-highlight:yellow"><a href="h
+	ttps://chime.aws/4445081663">https://chime.aws/4445081663</a></span><o:p><
+	/o:p></b></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNorma
+	l"><span style="background:yellow\;mso-highlight:yellow">Meeting ID: 4445 
+	08 1663</span><o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p
+	 class="MsoNormal">2. You can use your computer&#8217\;s microphone and sp
+	eakers\; however\, a headset is recommended. Or\, call in using your phone
+	:<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNo
+	rmal">United States Toll-Free: &#43\;1 855-552-4463<o:p></o:p></p><p class
+	="MsoNormal">Meeting ID: 4445 08 1663<o:p></o:p></p><p class="MsoNormal"><
+	o:p>&nbsp\;</o:p></p><p class="MsoNormal">One-click Mobile Dial-in (United
+	 States Toll-Free): &#43\;1 855-552-4463\,\,\,4445081663#<o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">United State
+	s (1): &#43\;1 206-462-5569<o:p></o:p></p><p class="MsoNormal">Internation
+	al: <a href="https://chime.aws/dialinnumbers/">https://chime.aws/dialinnum
+	bers/</a><o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p clas
+	s="MsoNormal">Dial-in attendees must enter *7 to mute or unmute themselves
+	.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNo
+	rmal">3. To connect from an in-room video system\, use one of the followin
+	g Amazon Chime bridges:<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o
+	:p></p><p class="MsoNormal">SIP video system: <a href="mailto:4445081663@m
+	eet.chime.in">4445081663@meet.chime.in</a> or meet.chime.in<o:p></o:p></p>
+	<p class="MsoNormal">or<o:p></o:p></p><p class="MsoNormal">H.323 system: 1
+	3.248.147.139 or 76.223.18.152<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p><p class="MsoNormal">If prompted enter the Meeting ID: 44450
+	81663#<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="
+	MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">---------- End of Am
+	azon Chime Meeting Information ---------<o:p></o:p></p></div></body></html
+	>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20200331T233831Z
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
