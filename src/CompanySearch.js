@@ -18,7 +18,7 @@ class CompanySearch extends React.Component {
       showSiteSummary: false,
       nextTownhallEvent: townHalls[0],
       configuration: {
-        searchableFields: ['Customer', 'Description', 'C19 Soln', 'Delivery Regions', 'C19 Tags'],
+        searchableFields: ['Customer', 'Description', 'Delivery Regions', 'C19 Tags'],
         sortings: {
           name_asc: {
             field: 'Customer',
@@ -242,7 +242,7 @@ class CompanySearch extends React.Component {
                               <b>{ item["C19 Cat"] }: { item["C19 SubCat"] }; Delivery Regions: { item['Delivery Regions'].join(" ") }</b>
                           </div>
                           <TownhallVideoPrezo cutomerName={item.Customer}  videoUrl={item["C19 Video"]} />
-                          {item['C19 BD Synopsis']}
+                          {item['Description']}
                           <div className="emailColumn">
                             <Button className="emailButton" variant="primary" href={contactString}>Get Introduced to {item.Customer} </Button> 
                           </div>
